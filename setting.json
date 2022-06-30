@@ -2,7 +2,7 @@
   "name-web":"DE ZIG YOU",
   "author":"DEZIGYOU",
   "remove-comment-html":true,
-  "target":"https://www.wikipedia.org/",
+  "target":"https://de.wikipedia.org",
   "name-folder-sitemap":"sitemap",
   "element-remove":[
     "script",
